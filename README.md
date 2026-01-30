@@ -1,54 +1,152 @@
-Project Title
+Applied Data Analysis Portfolio
 
-Gender Differences in Academic Stress
+Kika Okwubuasi-Andrew
+MSc Cognitive Neuroimaging | Behavioural & Applied Data Analysis
 
-Module
+Overview
 
-Data Science for Brain and Behaviour
+This repository presents applied data analysis projects completed during my MSc in Cognitive Neuroimaging and psychology-focused research training.
 
-Project Description:
+My work centres on:
 
-This project examines whether self-reported academic stress differs between male and female university students. The analysis was conducted as part of the Data Science for Brain and Behaviour module, with the aim of practising data cleaning, exploratory visualisation, and non-parametric statistical analysis using Python.
+Behavioural and psychological data analysis
 
-The project focuses on reproducibility and appropriate methodological choice given the properties of the data.
+Applied Python workflows
 
-Dataset
+Translating complex findings into clear, non-technical insights
 
-The analysis uses a publicly available dataset examining student wellbeing, mental health, and academic experiences in a multicultural university environment. The dataset includes demographic variables and self-reported measures of academic pressure collected using Likert-type scales. The dataset origin was verified via a peer-reviewed publication (Nguyen et al., 2019; DOI: https://doi.org/10.3390/data4030124
-).
+Research-driven decision making
 
-Key variable used:
+The emphasis is on practical analytical skills rather than purely theoretical coursework.
 
-Gender
+Technical Skills
 
-Academic pressure (Likert-type scale from 1 to 5)
+Programming & Tools
+Python (pandas, numpy, matplotlib, seaborn)
 
-Data Preparation;
+Data Analysis
+Data cleaning and preprocessing
+Exploratory data analysis (EDA)
+Trend and distribution analysis
 
-The dataset was inspected and cleaned prior to analysis. This included:
+Statistics & Research
+Descriptive statistics
+Basic inferential testing
+Hypothesis formulation and interpretation
 
-Renaming variables for consistency
+Communication
+Clear written reporting for non-technical audiences
 
-Converting variables to appropriate data types
 
-Removing missing values
+Project 1: Academic Pressure & Student Mental Health
 
-Restricting the analysis to male and female categories as provided in the dataset
+Data Science for Brain & Behaviour – MSc Module
 
-All preprocessing steps are documented within the notebook.
+Aim
+To examine relationships between academic pressure, perceived stress, and student wellbeing using survey-based behavioural data.
 
-Exploratory Analysis
+Approach
 
-Descriptive statistics and visualisations were used to explore the distribution of academic pressure scores. Histograms and boxplots were produced to examine central tendency, variability, and distribution shape across gender groups. These visualisations indicated discrete, ordinal data with similar distributions across groups.
+Cleaned and structured raw survey datasets using Python
 
-Statistical Analysis
+Conducted exploratory data analysis to identify trends, distributions, and outliers
 
-Group differences were examined using non-parametric methods. The primary inferential test reported is the Mann–Whitney U test, chosen due to the ordinal nature of the outcome variable and the absence of assumptions regarding normality. A permutation-based approach was also used within the notebook to support interpretation of the observed mean difference.
+Examined relationships between workload, stress indicators, and wellbeing measures
 
-Interpretation and Limitations
+Applied basic statistical techniques to explore predictors of perceived stress
 
-Results are interpreted with caution due to the use of a single-item self-report measure and the ordinal scale of the data. Gender was treated as a binary variable as defined in the dataset, which limits inclusivity. These limitations are discussed in the accompanying written report.
+Produced clear visualisations to support interpretation
 
-Reproducibility
+Communicated findings in a structured written report
 
-The notebook is fully executable from top to bottom. All analyses were conducted in Python using standard scientific libraries, and results can be reproduced by running the notebook.
+Key Findings
+
+Identified academic factors most strongly associated with elevated stress
+
+Found that perceived workload may be more influential than objective workload measures
+
+Demonstrated how behavioural data can inform wellbeing-focused interventions
+
+Skills Demonstrated
+Behavioural data analysis
+Statistical reasoning in a psychological context
+Insight translation and reporting
+
+
+Project 2: Retail Rationalisation & Store Closure Patterns
+
+Independent Applied Analysis
+
+Aim
+To investigate whether large-scale retail store closures followed identifiable economic and geographic patterns rather than occurring randomly.
+
+Approach
+
+Merged regional and temporal datasets into a unified analysis framework
+
+Analysed closure trends across time and location
+
+Examined clustering and distribution patterns
+
+Created visual summaries to support interpretation
+
+Presented findings through a clear analytical narrative
+
+Key Findings
+
+Store closures followed systematic patterns rather than random distribution
+
+Specific regions and time periods were disproportionately affected
+
+Results suggested strategic rationalisation aligned with broader economic pressures
+
+Skills Demonstrated
+Dataset merging and transformation
+Trend and pattern analysis
+Insight-driven storytelling with data
+
+
+Project 3: MSc Dissertation (In Progress)
+
+Sensorimotor Synchronisation in an Augmented Reality Music Ensemble
+
+Overview
+This dissertation investigates how humans synchronise movement with external rhythmic agents in augmented reality environments.
+
+Participants perform tapping tasks while interacting with a virtual ensemble that:
+
+Follows their timing
+
+Lags behind
+
+Ignores their timing
+
+Methods
+Behavioural tapping experiments
+Subjective experience ratings
+Computational modelling of timing accuracy and synchronisation error
+
+Techniques & Focus
+Behavioural data preprocessing
+Timing error and synchronisation analysis
+Statistical comparison across experimental conditions
+Research design and ethical approval (ERN_09-528)
+
+Research Themes
+Human–machine interaction
+Predictive timing and adaptation
+Applied cognitive neuroscience in immersive systems
+
+Final analyses and results will be added upon project completion.
+
+Purpose
+
+This portfolio complements my CV by providing concrete evidence of applied data and research skills, bridging academic training and real-world analysis.
+
+It is intended for:
+
+Graduate and entry-level data analyst roles
+
+Behavioural and UX research positions
+
+Research assistant and applied science roles
