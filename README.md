@@ -1,6 +1,8 @@
 Applied Data Analysis Portfolio
 
+
 Kika Okwubuasi-Andrew
+
 MSc Cognitive Neuroimaging | Behavioural & Applied Data Analysis
 
 Overview
@@ -38,6 +40,7 @@ Communication
 Clear written reporting for non-technical audiences
 
 
+
 Project 1: Academic Pressure & Student Mental Health
 
 Data Science for Brain & Behaviour – MSc Module
@@ -73,6 +76,7 @@ Statistical reasoning in a psychological context
 Insight translation and reporting
 
 
+
 Project 2: Retail Rationalisation & Store Closure Patterns
 
 Independent Applied Analysis
@@ -104,6 +108,7 @@ Skills Demonstrated
 Dataset merging and transformation
 Trend and pattern analysis
 Insight-driven storytelling with data
+
 
 
 Project 3: MSc Dissertation (In Progress)
